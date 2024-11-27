@@ -1,0 +1,12 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator>
+<link href="https://bastiansch.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="https://bastiansch.github.io/" rel="alternate" type="text/html"/>
+<updated>2024-11-27T08:00:00+00:00</updated>
+<id>https://bastiansch.github.io/feed.xml</id>
+<title type="html">Bastian Scharnagl</title>
+<subtitle>Research Scientist, Hof University of Applied Sciences, Computer Vision, Machine Learning, Generative AI</subtitle>
+<author>
+<name>Bastian Scharnagl</name>
+</author>
+</feed>
